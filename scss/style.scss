@@ -1,0 +1,25 @@
+@import "_header";
+
+
+
+h1 {
+	color: rgb(30, 0, 255);
+}
+
+body {
+	font-size: 20px;
+
+	div {
+		font-size: 10px;
+	}
+}
+
+.red {
+	color: red;
+}
+
+@media (max-width: 767px) {
+	.red {
+		border: 0;
+	}
+}

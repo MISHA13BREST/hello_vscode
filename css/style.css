@@ -1,0 +1,18 @@
+header {
+  background-color: rgb(255, 0, 0);
+}
+
+h1 {
+  color: rgb(30, 0, 255);
+}
+
+body {
+  font-size: 20px;
+}
+body div {
+  font-size: 10px;
+}
+
+.red {
+  color: red;
+}
